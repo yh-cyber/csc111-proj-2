@@ -1,4 +1,4 @@
-# Bird Species Interaction Visualizer (GTA 2025)
+# Bird Species Interaction Visualizer (Toronto 2025)
 
 An interactive graph-based visualization tool that models bird species interactions in Toronto (2025) using real-world biodiversity data from iNaturalist.
 
