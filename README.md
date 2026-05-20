@@ -37,8 +37,6 @@ The results are visualized as an interactive graph where:
 - Image-based graph nodes
 - Hover tooltips with interaction details
 - Error handling for missing data and invalid images
-- Dynamic graph layout using force-directed positioning
-
 
 
 ## Technologies Used
