@@ -11,6 +11,8 @@ This project was made for CSC111 at the University of Toronto.
 - Ruoshui Deng
 - Yusyra Hossain
 
+ATTENTION: THIS IS THE PUBLIC REPOSITORY WITH JUST THE FILES, SO YOU WILL NOT SEE THE COLLABORATORS OR THE WORK HISTORY. THE ACTUAL WORK IS IN A PRIVATE REPOSITORY
+
 
 ## Project Overview
 
