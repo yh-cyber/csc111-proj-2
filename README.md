@@ -2,7 +2,16 @@
 
 An interactive graph-based visualization tool that models bird species interactions in Toronto (2025) using real-world biodiversity data from iNaturalist.
 
-This project was developed for CSC111 at the University of Toronto.
+This project was made for CSC111 at the University of Toronto.
+
+## Authors
+
+- Nabiha Tariq
+- Eleanor Neal
+- Ruoshui Deng
+- Yusyra Hossain
+  
+University of Toronto — CSC111 Project
 
 ---
 
@@ -156,17 +165,6 @@ The graph is converted into a NetworkX structure and rendered using Matplotlib w
 - Map-based visualization
 - Improved ecological modelling using behavioural data
 - Real-time filtering and graph updates
-
----
-
-## Authors
-
-- Nabiha Tariq
-- Eleanor Neal
-- Ruoshui Deng
-- Yusyra Hossain
-  
-University of Toronto — CSC111 Project
 
 ---
 
