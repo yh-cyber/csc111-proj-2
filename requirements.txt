@@ -1,0 +1,13 @@
+# CSC111 Winter 2026: Python Libraries required to run this project
+# Testing and code checking
+hypothesis
+pytest
+python-ta
+
+# Graphics and data visualization
+pandas
+networkx
+matplotlib
+numpy
+mplcursors
+Pillow
