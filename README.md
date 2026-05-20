@@ -10,8 +10,6 @@ This project was made for CSC111 at the University of Toronto.
 - Eleanor Neal
 - Ruoshui Deng
 - Yusyra Hossain
-  
-University of Toronto, CSC111 Project
 
 
 ## Project Overview
