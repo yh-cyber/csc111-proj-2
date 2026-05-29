@@ -149,11 +149,9 @@ The graph is converted into a NetworkX structure and rendered using Matplotlib w
 
 
 ## Future Improvements
-- Machine learning–based interaction prediction
-- Adjustable proximity thresholds in the GUI
 - Larger-scale graph rendering
 - Map-based visualization
-- Improved ecological modelling using behavioural data
+- Improved ecological modelling and interaction prediction using behavioural data
 - Real-time filtering and graph updates
 
 
