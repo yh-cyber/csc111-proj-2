@@ -30,7 +30,7 @@ The results are visualized as an interactive graph where:
 
 
 ## Features
-- Interactive GUI built with Tkinter
+- Interactive UI built with Tkinter
 - Searchable species dropdown with real-time filtering
 - Seasonal graph analysis (Spring, Summer, Fall, Winter)
 - Custom graph and vertex data structures
