@@ -25,19 +25,14 @@ The results are visualized as an interactive graph where:
 - Nodes represent bird species
 - Edges represent potential interactions
 - Edge thickness represents interaction likelihood
-- Nodes display species images
 - Hovering over a species reveals neighbouring species and probabilities
 
 
 ## Features
-- Searchable species dropdown with real-time filtering
+- Searchable species dropdown with real-time filtering (based on season)
 - Seasonal graph analysis (Spring, Summer, Fall, Winter)
-- Custom graph and vertex data structures
 - Probability-based interaction modelling using the Jaccard Index
 - Geographic distance calculations using the Haversine formula
-- Image-based graph nodes
-- Hover tooltips with interaction details
-- Error handling for missing data and invalid images
 
 
 ## Technologies Used
@@ -59,8 +54,8 @@ The results are visualized as an interactive graph where:
 
 | File | Purpose |
 |---|---|
-| `main.py` | Used for runnign program |
-| `run.py` | UI logic and visualizations |
+| `main.py` | Used for running program |
+| `run.py` | Visualizations |
 | `entities.py` | Custom graph, vertex, and observation classes |
 | `utils.py` | Mathematical helper functions and image utilities |
 | `data_manipulation.py` | Data cleaning and preprocessing |
@@ -113,7 +108,7 @@ python main.py
 
 The dataset is cleaned and filtered using pandas before being transformed into custom `Observation` objects.
 
-### Interaction Modeling
+### Interaction Modelling
 
 Species interactions are approximated using:
 
@@ -129,15 +124,6 @@ The ecosystem is modelled as a weighted, undirected graph:
 - Vertices = species
 - Edges = co-occurrence interactions
 - Weights = interaction frequency/probability
-
-### Visualization
-
-The graph is converted into a NetworkX structure and rendered using Matplotlib with:
-
-- Force-directed layouts
-- Image-based nodes
-- Probability-scaled edge thickness
-- Interactive hover annotations
 
 
 ## Limitations
