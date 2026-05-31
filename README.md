@@ -43,9 +43,9 @@ cd csc111-proj-2
 pip install requirements.txt
 ```
 
-## 3. Unzip the folder data, extract the data file(data.csv), and put it in the same directory as the rest of the files
+### 3. Unzip the folder data, extract the data file(data.csv), and put it in the same directory as the rest of the files
 
-## 4. Running the Program
+### 4. Running the Program
 
 Run:
 
