@@ -63,14 +63,14 @@ python main.py
 
 ### Python Libraries
 
-- `pandas` — data cleaning and CSV processing
-- `networkx` — graph construction and layouts
-- `matplotlib` — graph visualization
-- `tkinter` — UI development
-- `numpy` — numerical/image manipulation
-- `Pillow (PIL)` — image processing
-- `mplcursors` — interactive hover annotations
-- `urllib` — dynamic image retrieval
+- `pandas`: for efficient CSV processing, filtering, and grouping
+- `networkx`: for graph construction and layout algorithms
+- `matplotlib`: for graph visualization
+- `tkinter`: User interface
+- `numpy`: image manipulation
+- `Pillow (PIL)`: image processing
+- `mplcursors`: interactive hover annotations
+- `urllib`: dynamic image retrieval
 
 
 
