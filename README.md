@@ -9,7 +9,7 @@ An interactive data visualization tool to model bird species interactions in Tor
 - Ruoshui Deng
 - Yusyra Hossain
 
-
+---
 
 ## Run
 
