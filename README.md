@@ -120,9 +120,3 @@ The ecosystem is modelled as a weighted, undirected graph:
 - iNaturalist observations are user-submitted and may contain sampling bias
 - Proximity does not guarantee actual ecological interaction
 - Large datasets required filtering and node limits for visualization performance
-
-
-## Acknowledgements
-
-- iNaturalist for providing biodiversity observation data
-- CSC111 course staff and TAs for project feedback and guidance
