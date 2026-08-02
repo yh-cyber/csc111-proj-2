@@ -1,8 +1,6 @@
 # Bird Species Interaction Visualizer (Toronto 2025)
 
-An interactive graph-based visualization tool that models bird species interactions in Toronto (2025) using real-world biodiversity data from iNaturalist.
-
-This project was made for CSC111 at the University of Toronto.
+An interactive data visualization tool to model bird species interactions in Toronto based on geographic proximity and seasonal overlap, and visualized results through a network/graph-like interface. Integrated Python libraries including pandas, NetworkX, Matplotlib, and Tkinter to handle data processing, graph construction, and user interaction. Enhanced usability through features such as dynamic filtering, hover-based insights, and a searchable dropdown interface.
 
 ### Authors
 
@@ -12,20 +10,6 @@ This project was made for CSC111 at the University of Toronto.
 - Yusyra Hossain
 
 ATTENTION: THIS IS THE PUBLIC REPOSITORY WITH JUST THE FILES, SO YOU WILL NOT SEE THE COLLABORATORS OR THE WORK HISTORY. THE ACTUAL WORK IS IN A PRIVATE REPOSITORY
-
-
-## Project Overview
-
-This program analyzes bird observation data and approximates the likelihood of interaction between species based on:
-- Geographic proximity between observations
-- Seasonal overlap of sightings
-- Frequency of co-occurrence
-
-The results are visualized as an interactive graph where:
-- Nodes represent bird species
-- Edges represent potential interactions
-- Edge thickness represents interaction likelihood
-- Hovering over a species reveals neighbouring species and probabilities
 
 
 ## Run
@@ -51,13 +35,6 @@ Extract the data file (data.csv), and put it in the same directory as the rest o
 ```bash
 python main.py
 ```
-
-## Features
-- Searchable species dropdown with real-time filtering (based on season)
-- Seasonal graph analysis (Spring, Summer, Fall, Winter)
-- Probability-based interaction modelling using the Jaccard Index
-- Geographic distance calculations using the Haversine formula
-
 
 ## Technologies Used
 
@@ -129,13 +106,6 @@ The ecosystem is modelled as a weighted, undirected graph:
 - iNaturalist observations are user-submitted and may contain sampling bias
 - Proximity does not guarantee actual ecological interaction
 - Large datasets required filtering and node limits for visualization performance
-
-
-## Future Improvements
-- Larger-scale graph rendering
-- Map-based visualization
-- Improved ecological modelling and interaction prediction using behavioural data
-- Real-time filtering and graph updates
 
 
 ## Acknowledgements
