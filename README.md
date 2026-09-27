@@ -3,7 +3,7 @@
 An interactive data visualization tool to model bird species interactions in Toronto based on geographic proximity and seasonal overlap, and visualized results through a network/graph-like interface. Integrated Python libraries including pandas, NetworkX, Matplotlib, and Tkinter to handle data processing, graph construction, and user interaction. Enhanced usability through features such as dynamic filtering, hover-based insights, and a searchable dropdown interface.
 
 ### Authors
-
+(Original repo with all extra files is private)
 - Nabiha Tariq
 - Eleanor Neal
 - Ruoshui Deng
